@@ -1,4 +1,4 @@
-### Hi there 👋, Paul Krafczuk
+### Hi there 👋, my name is Paul Krafczuk
 #### I am web developer from Argentina
 
 
