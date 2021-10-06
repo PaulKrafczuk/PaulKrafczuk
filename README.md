@@ -1,6 +1,5 @@
 ### Hi there 👋, Paul Krafczuk
 #### I am web developer from Argentina
-![I am web developer from Argentina](https://drive.google.com/file/d/1spZvBa0agQTjoqHYbVB4O3imJVLMh52D/view?usp=sharing)
 
 I truly enjoy acquiring new abilities that help me improve my skills. Currently I like to develop backend with node and express, using mongo as database and Javascript, css, Boostrap and other tools for the UX and UI.
 
